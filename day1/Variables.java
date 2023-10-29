@@ -9,10 +9,11 @@ public class Variables {
 		String brandName = "MOTOROLA";
 		char logo = 'M';
 		
-		System.out.println("isAndroid :"+isAndroid);
+		System.out.println("isAndroid test :"+isAndroid);
 		System.out.println("price :"+price);
 		System.out.println("brandName :"+brandName);
 		System.out.println("Logo :"+ logo);
+		System.out.println("Test IntelliJ");
 
 	}
 
